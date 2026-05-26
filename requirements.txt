@@ -1,0 +1,17 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-core
+sentence-transformers
+qdrant-client
+groq
+python-dotenv
+tavily-python
+transformers
+torch
+numpy
+pandas
+requests
+beautifulsoup4
+pypdf
