@@ -13,6 +13,10 @@ An advanced Agentic AI platform capable of:
 
 This system goes significantly beyond a traditional chatbot or basic RAG pipeline.
 
+# Streamlit app (Use the solutions provided below to successfully run the app when you hit the Groq rate limit)
+
+https://autonomous-research-and-reasoning-agent.streamlit.app/
+
 ---
 
 # 🚀 Features
