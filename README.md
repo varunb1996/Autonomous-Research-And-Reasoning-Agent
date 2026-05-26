@@ -167,7 +167,7 @@ agentic-ai-system/
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_REPO_URL
+git clone https://github.com/varunb1996/Autonomous-Research-And-Reasoning-Agent.git
 ```
 
 ---
